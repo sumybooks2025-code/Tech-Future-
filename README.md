@@ -1,5 +1,14 @@
 # Tech-Future-
 Tech Future is a beginner-friendly repository tracking my journey into software development. It contains class exercises, practice projects, and learning notes, and is updated after every class as I grow my skills and explore modern technologies step by step. 🚀
+
+on first day I learned from each and everyone journey
+Day two:
+Starting with practical on hand by learning what is Github and how to use it.
+
+Day 3: Creating Repo and how to save a file as Markdown.
+
+
+The learning process is well structured and Organized. 
 # Day 1
 <h1> # Introduction self </h1>
 
@@ -11,4 +20,6 @@ Tech Future is a beginner-friendly repository tracking my journey into software 
 
 ## Day 3
 <h3>Learning how to create files on Github</h3>
-<p> Assigning each one as project partner to each other, we are to collaborate with each another on our Repo. It is a very good initiative especially in learning how to code on tech journey. Group collaboration teach so many skills </p>
+<p> Assigning each one as project partner to each other, we are to collaborate with each another on our Repo.
+  It is a very good initiative especially in learning how to code on. 
+  Group collaboration teach so many skills </p>
